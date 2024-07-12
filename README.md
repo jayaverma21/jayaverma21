@@ -1,6 +1,8 @@
 # 💫 About Me:
-Aspiring  Devops Engineer .
-
+  Aspiring  a passionate DevOps Engineer
+  
++ 🌱 I’m currently learning Machine learning , Generative AiOps and Mlops
++ 📫 How to reach me jayaverma1721@gmail.com
 
 ## 🌐 Socials:
 + [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/-jaya-verma/)
