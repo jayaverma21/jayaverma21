@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Aspiring  a passionate DevOps Engineer
+I am a passionate technology enthusiast with a keen interest in the dynamic field of DevOps. My aspiration is to become a proficient DevOps Engineer, leveraging my enthusiasm for integrating multiple technologies seamlessly. I have a deep interest in learning new technologies and exploring new tools. Additionally, I am passionate about creative thinking and have a strong enthusiasm for MlOps & Gen AI Ops as well .
   
 + 🌱 I’m currently learning Machine learning , Generative AiOps and Mlops
 + 📫 How to reach me jayaverma1721@gmail.com
