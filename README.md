@@ -5,7 +5,7 @@ I am a passionate technology enthusiast with a keen interest in the dynamic fiel
 + [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/-jaya-verma/)
 + [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@jayaverma1721)
 + [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/jayaverma1721/)
-+ + 📫 How to reach me jayaverma1721@gmail.com
++ + 📫 How to reach me jayaverma2110@gmail.com
 
 <img algin="right" alt="codingGif" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
